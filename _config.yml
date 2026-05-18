@@ -185,6 +185,15 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+# Excluding pages on top of the navbar
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/repositories.md
+  - _pages/teaching.md
+  - _pages/news.md
+  - _pages/projects.md
+
+# Pre existing excludes
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
