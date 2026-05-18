@@ -1,10 +1,8 @@
 cv:
   name: John Doe
-
   sections:
     summary:
       - Software engineer with 10 years of experience in distributed systems.
-
     experience:
       - company: Acme Corp
         position: Senior Engineer
@@ -13,14 +11,12 @@ cv:
         highlights:
           - Led migration to microservices architecture
           - Reduced deployment time by 80%
-
     education:
       - institution: MIT
         area: Computer Science
         degree: BS
         start_date: 2012-09
         end_date: 2016-05
-
     skills:
       - label: Languages
         details: Python, Go, Rust, TypeScript
