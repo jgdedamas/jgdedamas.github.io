@@ -1,24 +1,129 @@
 cv:
-  name: John Doe
+  name: "Jean-Guillaume de Damas"
+  headline: "Postdoctoral Researcher in Machine Learning for Numerical Analysis"
+  location: "Paris, France"
+  email: "jean-guillaume.de-damas@enpc.fr"
+  phone: "+33 7 70 70 67 75"
   sections:
     summary:
-      - Software engineer with 10 years of experience in distributed systems.
+      - "Applied mathematician specializing in randomized linear algebra and
+        model reduction. Research focuses on accelerating numerical simulations
+        through hybrid data-driven and physics-informed methods, with particular
+        expertise in large-scale parametric studies and eigenvalue problems."
     experience:
-      - company: Acme Corp
-        position: Senior Engineer
-        start_date: 2020-01
-        end_date: present
+      - company: "ENPC - CERMICS"
+        position: "Postdoctoral Researcher"
+        location: "Paris, France"
+        start_date: "2026-05"
+        end_date: "present"
         highlights:
-          - Led migration to microservices architecture
-          - Reduced deployment time by 80%
+          - "Working at the Centre d'Enseignement et de Recherche en
+            Mathématiques et Calcul Scientifique on the development of hybrid
+            model reduction methods"
+          - "Developing numerical methods for accelerating parametric studies in
+            granular material simulations"
+          - "Implementing algorithms in the software SCOPI++"
+      - company: "CERFACS"
+        position: "Master Intern - Researcher & Scientific Programmer"
+        location: "Toulouse, France"
+        start_date: "2022-04"
+        end_date: "2022-10"
+        highlights:
+          - "Researched randomized SVD preconditioners with applications to data
+            assimilation"
+          - "Delivered functional C++ code for the European Weather Forecast
+            Center"
+          - "Supervised by Selime Gürol"
     education:
-      - institution: MIT
-        area: Computer Science
-        degree: BS
-        start_date: 2012-09
-        end_date: 2016-05
+      - institution: "INRIA Paris & Sorbonne Université"
+        area: "Applied Mathematics"
+        degree: "PhD"
+        location: "Paris, France"
+        start_date: "2022-11"
+        end_date: "2026-03"
+        highlights:
+          - "Thesis: Randomized methods for solving eigenvalue problems and computing low-rank matrix approximations"
+          - "Supervised by Laura Grigori within the ERC project EMC2"
+      - institution: "ISAE-SUPAERO"
+        area: "Engineering"
+        degree: "MSc"
+        location: "Toulouse, France"
+        start_date: "2018-09"
+        highlights:
+          - "Machine learning: Algorithms for SVM, Neural Networks,
+            Reinforcement learning and mathematical background"
+          - "Statistics: Bayesian inference, Stochastic algorithms,
+            Non-parametric estimation"
+          - "High performance computing: Parallelization in C"
+          - "Optimisation: Inverse problem, data assimilation, problem
+            regularization, and numerical challenges in inexact arithmetic"
+    publications:
+      - title: "Randomized Implicitly Restarted Arnoldi Method for the Non-Symmetric Eigenvalue Problem"
+        authors:
+          - '***Jean-Guillaume de Damas***'
+          - Laura Grigori
+        journal: SIAM Journal on Matrix Analysis and Applications
+        date: '2025-10'
+        doi: 10.1137/24m1674352
+        url: https://doi.org/10.1137/24m1674352
+        summary: "Vol. 46, No. 4, pp. 2395–2422. ISSN: 1095-7162."
+      - title: "Randomized Krylov-Schur Eigensolver with Deflation"
+        authors:
+          - '***Jean-Guillaume de Damas***'
+          - Laura Grigori
+        journal: arXiv
+        date: '2025'
+        doi: 10.48550/ARXIV.2508.05400
+        url: https://doi.org/10.48550/ARXIV.2508.05400
+        summary:
+      - title: "Randomized Orthogonalization and Krylov Subspace Methods: Principles and Algorithms"
+        authors:
+          - '***Jean-Guillaume de Damas***'
+          - Laura Grigori
+          - Igor Simunec
+          - Edouard Timsit
+        journal: arXiv
+        date: '2025'
+        doi: 10.48550/arXiv.2512.15455
+        url: https://arxiv.org/abs/2512.15455
+        summary:
+    selected_talks:
+      - name: "Randomized Linear Algebra for the Eigenvalue Problem"
+        location: "SIAM Conference on Applied Linear Algebra"
+        date: "2024"
+      - name: "Preconditioning for Data Assimilation with Randomized SVD"
+        location: "CERFACS Scientific Seminar"
+        date: "2022"
+    teaching:
+      - name: SU
+        date: Fall 2023
+        summary: summary
+      - name: SU
     skills:
-      - label: Languages
-        details: Python, Go, Rust, TypeScript
-      - label: Infrastructure
-        details: Kubernetes, Terraform, AWS
+      - label: "Languages"
+        details: "Julia, Python, Matlab, R, C, C++"
+      - label: "Technologies"
+        details: "PyTorch, Scikit-learn, OpenMP, MPI, Cuda"
+      - label: "Expertise"
+        details: "Numerical Analysis, Randomized Linear Algebra, Eigensolvers, Low Rank
+          Approximations"
+    languages:
+      - label: "English"
+        details: "Advanced Level C1 (TOEFL ITP 600/677)"
+      - label: "German"
+        details: "Intermediate (A2)"
+      - label: "Japanese"
+        details: "Beginner (A1)"
+    interests:
+      - bullet: "Piano & Musicology: Learning as a passionate amateur with
+          conservatory-level classes"
+  website: https://jgdedamas.github.io/
+  photo:
+  social_networks:
+    - network: ORCID
+      username: 0009-0008-6812-7530
+    - network: Google Scholar
+      username: SIYJ9vUAAAAJ
+    - network: GitHub
+      username: jgdedamas
+  custom_connections: []
