@@ -1,59 +1,28 @@
 cv:
-  name: "Jean-Guillaume de Damas"
-  headline: "Postdoctoral Researcher in Machine Learning for Numerical Analysis"
-  location: "Paris, France"
-  email: "jean-guillaume.de-damas@enpc.fr"
-  phone: "+33 7 70 70 67 75"
+  name: John Doe
+
   sections:
     summary:
-      - "Applied mathematician specializing in randomized linear algebra and
-        model reduction. Research focuses on accelerating numerical simulations
-        through hybrid data-driven and physics-informed methods, with particular
-        expertise in large-scale parametric studies and eigenvalue problems."
+      - Software engineer with 10 years of experience in distributed systems.
+
     experience:
-      - company: "ENPC - CERMICS"
-        position: "Postdoctoral Researcher"
-        location: "Paris, France"
-        start_date: "2026-05"
-        end_date: "present"
+      - company: Acme Corp
+        position: Senior Engineer
+        start_date: 2020-01
+        end_date: present
         highlights:
-          - "Working at the Centre d'Enseignement et de Recherche en
-            Mathématiques et Calcul Scientifique on the development of hybrid
-            model reduction methods"
-          - "Developing numerical methods for accelerating parametric studies in
-            granular material simulations"
-          - "Implementing algorithms in the software SCOPI++"
-      - company: "CERFACS"
-        position: "Master Intern - Researcher & Scientific Programmer"
-        location: "Toulouse, France"
-        start_date: "2022-04"
-        end_date: "2022-10"
-        highlights:
-          - "Researched randomized SVD preconditioners with applications to data
-            assimilation"
-          - "Delivered functional C++ code for the European Weather Forecast
-            Center"
-          - "Supervised by Selime Gürol"
+          - Led migration to microservices architecture
+          - Reduced deployment time by 80%
+
     education:
-      - institution: "INRIA Paris & Sorbonne Université"
-        area: "Applied Mathematics"
-        degree: "PhD"
-        location: "Paris, France"
-        start_date: "2022-11"
-        end_date: "2026-03"
-        highlights:
-          - "Thesis: Randomized methods for solving eigenvalue problems and computing low-rank matrix approximations"
-          - "Supervised by Laura Grigori within the ERC project EMC2"
-      - institution: "ISAE-SUPAERO"
-        area: "Engineering"
-        degree: "MSc"
-        location: "Toulouse, France"
-        start_date: "2018-09"
-        highlights:
-          - "Machine learning: Algorithms for SVM, Neural Networks,
-            Reinforcement learning and mathematical background"
-          - "Statistics: Bayesian inference, Stochastic algorithms,
-            Non-parametric estimation"
-          - "High performance computing: Parallelization in C"
-          - "Optimisation: Inverse problem, data assimilation, problem
-            regularization, and numerical challenges in inexact arithmetic"
+      - institution: MIT
+        area: Computer Science
+        degree: BS
+        start_date: 2012-09
+        end_date: 2016-05
+
+    skills:
+      - label: Languages
+        details: Python, Go, Rust, TypeScript
+      - label: Infrastructure
+        details: Kubernetes, Terraform, AWS
