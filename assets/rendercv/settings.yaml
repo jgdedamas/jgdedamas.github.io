@@ -1,6 +1,5 @@
 # for details on settings, see https://docs.rendercv.com/user_guide/yaml_input_structure/settings/
 settings:
-  current_date: today
   render_command:
     # Paths must be relative to _data/cv.yaml
     design: ../assets/rendercv/design.yaml
