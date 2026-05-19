@@ -4,7 +4,6 @@ cv:
   email: "jean-guillaume.de-damas@enpc.fr"
   phone: "+33 7 70 70 67 75"
   website: https://jgdedamas.github.io/
-  summary: "Applied mathematician specializing in randomized linear algebra and model reduction. Research focuses on accelerating numerical simulations through hybrid data-driven and physics-informed methods, with particular expertise in large-scale parametric studies and eigenvalue problems."
   social_networks:
     - network: ORCID
       username: 0009-0008-6812-7530
@@ -81,21 +80,21 @@ cv:
         date: "2025"
         doi: 10.48550/arXiv.2512.15455
         url: https://arxiv.org/abs/2512.15455
-    Skills:
+    Test1:
       - label: "Programming"
         details: "Julia, Python, Matlab, R, C, C++"
       - label: "Technologies"
         details: "PyTorch, Scikit-learn, OpenMP, MPI, Cuda"
       - label: "Expertise"
         details: "Numerical Analysis, Randomized Linear Algebra, Eigensolvers, Low-Rank Approximations"
-    Languages:
+    Test2:
       - label: "English"
         details: "Advanced Level C1 (TOEFL ITP 600/677)"
       - label: "German"
         details: "Intermediate (A2)"
       - label: "Japanese"
         details: "Beginner (A1)"
-    Interests:
+    Test3:
       - bullet: "Piano & Musicology: Learning as a passionate amateur with conservatory-level classes"
     Selected Talks:
       - bullet: "Randomized Linear Algebra for the Eigenvalue Problem — SIAM Conference on Applied Linear Algebra (2024)"
