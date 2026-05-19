@@ -1,5 +1,11 @@
 cv:
-  name: Jean-Guillaume de Damas
-  label: Postdoc
-  email: jg@enpc.com
-  location: Paris, France
+  name: "Jean-Guillaume de Damas"
+  location: "Paris, France"
+  email: "jean-guillaume.de-damas@enpc.fr"
+  phone: "+33 7 70 70 67 75"
+  sections:
+    summary:
+      - "Applied mathematician specializing in randomized linear algebra and
+        model reduction. Research focuses on accelerating numerical simulations
+        through hybrid data-driven and physics-informed methods, with particular
+        expertise in large-scale parametric studies and eigenvalue problems."
