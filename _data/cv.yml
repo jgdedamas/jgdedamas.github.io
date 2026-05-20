@@ -82,16 +82,22 @@ cv:
         doi: 10.48550/arXiv.2512.15455
         url: https://arxiv.org/abs/2512.15455
     Selected Talks:
-      - bullet: "Randomized methods for the eigenvalue problem and low rank approximation - CERMICS Applied Mathematics Seminar (2025)"
-      - bullet: "A randomized Krylov-Schur eigensolver, featuring mixed-precision and deflation - Workshop on Approximate Computing in Numerical Linear Algebra (2025)"
-      - bullet: "Randomized Implicitly Restarted Arnoldi algorithm for the unsymmetric eigenvalue problem — SIAM Conference on Applied Linear Algebra (LA24) & CERFACS Sparse Days (2024)"
+      - name: "Randomized methods for the eigenvalue problem and low rank approximation"
+        date: "2025"
+        location: "CERMICS Applied Mathematics Seminar"
+      - name: "A randomized Krylov-Schur eigensolver, featuring mixed-precision and deflation"
+        date: "2025"
+        location: " Workshop on Approximate Computing in Numerical Linear Algebra"
+      - name: "Randomized Implicitly Restarted Arnoldi algorithm for the unsymmetric eigenvalue problem"
+        date: "2024"
+        location: "SIAM Conference on Applied Linear Algebra LA24 & CERFACS Sparse Days"
     Teaching:
-      - name: Sorbonne University, Paris
+      - name: Mathematics for Science Studies I (52h)
         date: Fall 2023
-        summary: Mathematics for Science Studies I (52h)
-      - name: Sorbonne University, Paris
+        location: Sorbonne University, Paris
+      - name: Programming Basics I (20h)
         date: Fall 2023
-        summary: Programming Basics I (20h)
+        location: Sorbonne University, Paris
     Skills:
       - name: "Programming"
         keywords: "Julia, Python, Matlab, R, C, C++"
