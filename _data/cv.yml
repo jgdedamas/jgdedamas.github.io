@@ -92,13 +92,13 @@ cv:
       - name: Sorbonne University, Paris
         date: Fall 2023
         summary: Programming Basics I (20h)
-    Proficiency:
-      - label: "Programming"
-        details: "Julia, Python, Matlab, R, C, C++"
-      - label: "Technologies"
-        details: "PyTorch, Scikit-learn, OpenMP, MPI, Cuda"
-      - label: "Expertise"
-        details: "Numerical Analysis, Randomized Linear Algebra, Eigensolvers, Low-Rank Approximations"
+    Skills:
+      - name: "Programming"
+        keywords: "Julia, Python, Matlab, R, C, C++"
+      - name: "Technologies"
+        keywords: "PyTorch, Scikit-learn, OpenMP, MPI, Cuda"
+      - name: "Expertise"
+        keywords: "Numerical Analysis, Randomized Linear Algebra, Eigensolvers, Low-Rank Approximations"
     Languages:
       - name: "English"
         summary: "Advanced Level C1 (TOEFL ITP 600/677)"
