@@ -40,6 +40,7 @@ cv:
         end_date: "2026-03"
         highlights:
           - "Thesis: Randomized methods for solving eigenvalue problems and computing low-rank matrix approximations"
+          - "Obtained up to 3-4x speed-up compared to state of the art methods while maintaining accuracy in the computations"
           - "Supervised by Laura Grigori within the ERC project EMC2"
       - institution: "ISAE-SUPAERO"
         area: "Engineering"
@@ -80,22 +81,32 @@ cv:
         date: "2025"
         doi: 10.48550/arXiv.2512.15455
         url: https://arxiv.org/abs/2512.15455
-    Test1:
+    Selected Talks:
+      - bullet: "Randomized methods for the eigenvalue problem and low rank approximation - CERMICS Applied Mathematics Seminar (2025)"
+      - bullet: "A randomized Krylov-Schur eigensolver, featuring mixed-precision and deflation - Workshop on Approximate Computing in Numerical Linear Algebra (2025)"
+      - bullet: "Randomized Implicitly Restarted Arnoldi algorithm for the unsymmetric eigenvalue problem — SIAM Conference on Applied Linear Algebra (LA24) & CERFACS Sparse Days (2024)"
+    Teaching:
+      - name: Sorbonne University, Paris
+        date: Fall 2023
+        summary: Mathematics for Science Studies I (52h)
+      - name: Sorbonne University, Paris
+        date: Fall 2023
+        summary: Programming Basics I (20h)
+    Proficiency:
       - label: "Programming"
         details: "Julia, Python, Matlab, R, C, C++"
       - label: "Technologies"
         details: "PyTorch, Scikit-learn, OpenMP, MPI, Cuda"
       - label: "Expertise"
         details: "Numerical Analysis, Randomized Linear Algebra, Eigensolvers, Low-Rank Approximations"
-    Test2:
-      - label: "English"
-        details: "Advanced Level C1 (TOEFL ITP 600/677)"
-      - label: "German"
-        details: "Intermediate (A2)"
-      - label: "Japanese"
-        details: "Beginner (A1)"
-    Test3:
+    Languages:
+      - name: "English"
+        summary: "Advanced Level C1 (TOEFL ITP 600/677)"
+      - name: "German"
+        summary: "Intermediate (A2)"
+      - name: "Japanese"
+        summary: "Beginner (A1)"
+    Outside of the office:
       - bullet: "Piano & Musicology: Learning as a passionate amateur with conservatory-level classes"
-    Selected Talks:
-      - bullet: "Randomized Linear Algebra for the Eigenvalue Problem — SIAM Conference on Applied Linear Algebra (2024)"
-      - bullet: "Preconditioning for Data Assimilation with Randomized SVD — CERFACS Scientific Seminar (2022)"
+      - bullet: "Game developement: Building its own engine in C++ or using Unity/Unreal"
+    
