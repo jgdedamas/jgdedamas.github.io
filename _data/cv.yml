@@ -13,9 +13,9 @@ cv:
       username: jgdedamas
   sections:
     Experience:
-      - company: "ENPC - CERMICS"
+      - company: "CERMICS, CNRS, ENPC, Institut Polytechnique de Paris"
         position: "Postdoctoral Researcher"
-        location: "Paris, France"
+        location: "Marne-la-Vallée, France"
         start_date: "2026-05"
         end_date: "present"
         highlights:
