@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc researcher at <a href='https://cermics-lab.enpc.fr/'>CERMICS</a>, Paris, France.
+subtitle: Postdoc researcher at the <a href='https://cermics-lab.enpc.fr/'>CERMICS</a>, Marne-la-Vallée, France.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Ecole nationale des Ponts et Chaussées</p>
-    <p>Paris, France</p>
+    <p>CERMICS, CNRS, ENPC, Institut Polytechnique de Paris</p>
+    <p>Marne-la-Vallée, France</p>
     <p>jean-guillaume.de-damas at enpc.fr</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website ! I am a french mathematician currently working at research center in applied mathematics of Ecole nationale des ponts et chaussées.
+Welcome to my website ! I am a french mathematician currently working at the research center in applied mathematics of Ecole nationale des ponts et chaussées.
 
 My research topic of interests are 
 - Numerical linear algebra, with a focus on solving linear systems of equations or eigenvalue problems
