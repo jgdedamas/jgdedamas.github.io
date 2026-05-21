@@ -19,7 +19,7 @@ cv:
         start_date: "2026-05"
         end_date: "present"
         highlights:
-          - "Working at the Centre d'Enseignement et de Recherche en Mathématiques et Calcul Scientifique on the development of hybrid model reduction methods"
+          - "Working at the Centre d'Enseignement et de Recherche en Mathématiques et Calcul Scientifique on the development of hybrid model reduction methods with Virginie Ehrlacher"
           - "Developing numerical methods for accelerating parametric studies in granular material simulations"
           - "Implementing algorithms in the software SCOPI++"
       - company: "CERFACS"
@@ -82,15 +82,15 @@ cv:
         doi: 10.48550/arXiv.2512.15455
         url: https://arxiv.org/abs/2512.15455
     Selected Talks:
-      - name: "Randomized methods for the eigenvalue problem and low rank approximation"
+      - location: "Randomized methods for the eigenvalue problem and low rank approximation"
         date: "2025"
-        location: "CERMICS Applied Mathematics Seminar"
-      - name: "A randomized Krylov-Schur eigensolver, featuring mixed-precision and deflation"
+        name: "CERMICS Applied Mathematics Seminar"
+      - location: "A randomized Krylov-Schur eigensolver, featuring mixed-precision and deflation"
         date: "2025"
-        location: " Workshop on Approximate Computing in Numerical Linear Algebra"
-      - name: "Randomized Implicitly Restarted Arnoldi algorithm for the unsymmetric eigenvalue problem"
+        name: " Workshop on Approximate Computing in Numerical Linear Algebra"
+      - location: "Randomized Implicitly Restarted Arnoldi algorithm for the unsymmetric eigenvalue problem"
         date: "2024"
-        location: "SIAM Conference on Applied Linear Algebra LA24 & CERFACS Sparse Days"
+        name: "SIAM Conference on Applied Linear Algebra LA24 & CERFACS Sparse Days"
     Teaching:
       - name: Mathematics for Science Studies I (52h)
         date: Fall 2023
