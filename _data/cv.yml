@@ -87,7 +87,7 @@ cv:
         name: "CERMICS Applied Mathematics Seminar"
       - location: "A randomized Krylov-Schur eigensolver, featuring mixed-precision and deflation"
         date: "2025"
-        name: " Workshop on Approximate Computing in Numerical Linear Algebra"
+        name: "Workshop on Approximate Computing in Numerical Linear Algebra"
       - location: "Randomized Implicitly Restarted Arnoldi algorithm for the unsymmetric eigenvalue problem"
         date: "2024"
         name: "SIAM Conference on Applied Linear Algebra LA24 & CERFACS Sparse Days"
