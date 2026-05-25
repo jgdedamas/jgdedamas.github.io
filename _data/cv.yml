@@ -47,7 +47,7 @@ cv:
         degree: "MSc"
         location: "Toulouse, France"
         start_date: "2018-09"
-        end_date: "2023-06"
+        end_date: "2022-11"
         highlights:
           - "Machine learning: Algorithms for SVM, Neural Networks, Reinforcement learning and mathematical background"
           - "Statistics: Bayesian inference, Stochastic algorithms, Non-parametric estimation"
@@ -68,7 +68,7 @@ cv:
           - "***Jean-Guillaume de Damas***"
           - Laura Grigori
         journal: arXiv
-        date: "2025"
+        date: "2025-08"
         doi: 10.48550/ARXIV.2508.05400
         url: https://doi.org/10.48550/ARXIV.2508.05400
       - title: "Randomized Orthogonalization and Krylov Subspace Methods: Principles and Algorithms"
@@ -78,18 +78,18 @@ cv:
           - Igor Simunec
           - Edouard Timsit
         journal: arXiv
-        date: "2025"
+        date: "2025-11"
         doi: 10.48550/arXiv.2512.15455
         url: https://arxiv.org/abs/2512.15455
     Selected Talks:
-      - location: "Randomized methods for the eigenvalue problem and low rank approximation"
-        date: "2025"
-        name: "CERMICS Applied Mathematics Seminar"
       - location: "A randomized Krylov-Schur eigensolver, featuring mixed-precision and deflation"
-        date: "2025"
+        date: "2025-10"
         name: "Workshop on Approximate Computing in Numerical Linear Algebra"
+      - location: "Randomized methods for the eigenvalue problem and low rank approximation"
+        date: "2025-06"
+        name: "CERMICS Applied Mathematics Seminar"
       - location: "Randomized Implicitly Restarted Arnoldi algorithm for the unsymmetric eigenvalue problem"
-        date: "2024"
+        date: "2024-06"
         name: "SIAM Conference on Applied Linear Algebra LA24 & CERFACS Sparse Days"
     Teaching:
       - name: Mathematics for Science Studies I (52h)
