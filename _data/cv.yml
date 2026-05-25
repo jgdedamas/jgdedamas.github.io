@@ -100,11 +100,11 @@ cv:
         location: Sorbonne University, Paris
     Skills:
       - name: "Programming"
-        keywords: "Julia, Python, Matlab, R, C, C++"
+        summary: "Julia, Python, Matlab, R, C, C++"
       - name: "Technologies"
-        keywords: "PyTorch, Scikit-learn, OpenMP, MPI, Cuda"
+        summary: "PyTorch, Scikit-learn, OpenMP, MPI, Cuda"
       - name: "Expertise"
-        keywords: "Numerical Analysis, Randomized Linear Algebra, Eigensolvers, Low-Rank Approximations"
+        summary: "Numerical Analysis, Randomized Linear Algebra, Eigensolvers, Low-Rank Approximations"
     Languages:
       - name: "English"
         summary: "Advanced Level C1 (TOEFL ITP 600/677)"
