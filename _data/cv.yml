@@ -89,7 +89,7 @@ cv:
         date: "2025-06"
         name: "CERMICS Applied Mathematics Seminar"
       - location: "Randomized Implicitly Restarted Arnoldi algorithm for the unsymmetric eigenvalue problem"
-        date: "2024-06"
+        date: "2024-05"
         name: "SIAM Conference on Applied Linear Algebra LA24 & CERFACS Sparse Days"
     Teaching:
       - name: Mathematics for Science Studies I (52h)
