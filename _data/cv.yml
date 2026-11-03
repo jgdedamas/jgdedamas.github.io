@@ -51,6 +51,7 @@ cv:
         highlights:
           - "Machine learning: Algorithms for SVM, Neural Networks, Reinforcement learning and mathematical background"
           - "Statistics: Bayesian inference, Stochastic algorithms, Non-parametric estimation"
+          - "Fluid dynamics: Theory, computational aspects, wind tunnel demonstration"
           - "High performance computing: Parallelization in C"
           - "Optimisation: Inverse problem, data assimilation, problem regularization, and numerical challenges in inexact arithmetic"
     Publications:
