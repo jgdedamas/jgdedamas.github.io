@@ -55,6 +55,13 @@ cv:
           - "High performance computing: Parallelization in C"
           - "Optimisation: Inverse problem, data assimilation, problem regularization, and numerical challenges in inexact arithmetic"
     Publications:
+      - title: "Randomized methods for solving eigenvalue problems and computing low-rank matrix approximations"
+        authors:
+          - "***Jean-Guillaume de Damas***"
+        journal: PhD Thesis
+        date: "2026-06"
+        doi: 10.70675/42a47550z0087z4fddzbf44z13273ef37f8b 
+        url: https://theses.hal.science/tel-05652060/
       - title: "Randomized Implicitly Restarted Arnoldi Method for the Non-Symmetric Eigenvalue Problem"
         authors:
           - "***Jean-Guillaume de Damas***"
@@ -93,6 +100,12 @@ cv:
         date: "2024-05"
         name: "SIAM Conference on Applied Linear Algebra LA24 & CERFACS Sparse Days"
     Teaching:
+      - name: Analysis and Partial Differential Equations Part II (24h)
+        date: Spring 2027
+        location: Ecole nationale des ponts et chaussées (ENPC), Champs-sur-Marne
+      - name: Analysis and Partial Differential Equations Part I (24h)
+        date: Winter 2026
+        location: Ecole nationale des ponts et chaussées (ENPC), Champs-sur-Marne
       - name: Mathematics for Science Studies I (52h)
         date: Fall 2023
         location: Sorbonne University, Paris
