@@ -27,13 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website ! I am a french mathematician currently working at the research center in applied mathematics of Ecole nationale des ponts et chaussées.
+Welcome to my website ! I am a french mathematician currently working at the research center in applied mathematics of Ecole nationale des ponts et chaussées (ENPC).
 
 My research topic of interests are 
 - Numerical linear algebra, with a focus on solving linear systems of equations or eigenvalue problems
 - Randomized linear algebra, with a focus on sketch-orthonormalization and its usage as an accelerator for common matrix computations
-- Matrix low-rank factorization
-- Model order reduction for numerical simulations
+- Matrix low-rank factorization and dimension reduction techniques
+- Model order reduction for numerical simulations, with a focus on crowd and granular fluid-matter problems
 - Scientific machine learning approaches for differential equations
 
 Feel free to contact me at the email adress given on this page.
