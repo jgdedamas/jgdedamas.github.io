@@ -9,10 +9,12 @@ on:
       - "assets/rendercv/design.yaml"
       - "assets/rendercv/locale.yaml"
       - "assets/rendercv/settings.yaml"
+      - ".github/workflows/render-cv.yml"
   workflow_call:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write # needed to trigger the site deployment after the PDF is updated
 jobs:
   rendercv:
     name: RenderCV
@@ -60,3 +62,9 @@ jobs:
           git add -A
           git commit -m "chore: render the latest CV"
           git push
+      # Commits pushed by a workflow don't trigger other workflows, so the site
+      # would keep serving the old PDF. Explicitly redeploy it.
+      - name: Redeploy the site with the new PDF
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --repo ${{ github.repository }} --ref ${{ github.ref_name }}
