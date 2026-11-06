@@ -5,3 +5,11 @@ design:
     size: a4
     show_footer: false
     show_top_note: false
+  templates:
+    # Applies to all "normal" entries (name/date/location/summary), i.e.
+    # Selected Talks, Teaching, Skills and Languages. Location goes under the
+    # bold name (like Skills/Languages summaries); only the date stays on the right.
+    normal_entry:
+      main_column: "**NAME**\nLOCATION\nSUMMARY\nHIGHLIGHTS"
+      date_and_location_column: "DATE"
+
