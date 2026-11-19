@@ -36,6 +36,12 @@ My research topic of interests are
 - Model order reduction for numerical simulations, with a focus on crowd and granular fluid-matter problems
 - Scientific machine learning approaches for differential equations
 
+<iframe src="{{ '/assets/html/crowd_website.html' | relative_url }}" title="Crowd evacuation through a door with a pillar" loading="lazy" style="width: 100%; aspect-ratio: 4000 / 2312; border: 0;"></iframe>
+<div class="caption">
+  One hundred pedestrians evacuate through a narrow door, with a pillar in front of the exit (twice real speed). Each pedestrian is a rigid disk that would like to walk straight to the exit. At every time step, its actual velocity is the admissible velocity closest to this desired one, that is, its projection onto the set of velocities that keep disks from overlapping (<a href="https://arxiv.org/abs/0901.0984">contact model of Maury &amp; Venel</a>). Red dots mark active contacts. Click to pause.
+</div>
+
+
 Feel free to contact me at the email adress given on this page.
 
 Happy science !
